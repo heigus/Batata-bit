@@ -1,2 +1,3 @@
 # Batata-bit
-Una landing page creada gracias al curso de mobileFirst de platzi desarrollada con buenas practicas BEM y con responsable escalable desde mobil a desktop
+A landing page create, thanks to mobileFirst course of platzi developed with good practices like BEM and responsible desing escalate from mobile device to desktop
+You can take a look the website here https://heigus.github.io/Batata-bit/
